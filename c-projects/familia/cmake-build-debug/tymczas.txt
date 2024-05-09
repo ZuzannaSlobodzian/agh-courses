@@ -1,0 +1,7 @@
+tymczas
+(Jan, Kowalski, 1918-02-01, 1999-12-04, Alina, Nowak, 1921-04-10, 2005-05-14, [
+(Mikolaj, Kowalski, 1953-05-21, 2010-03-03, Karolina, Plichta, 1951-07-13, , [
+(Ewelina, Kowalska, 1983-11-03, , Magdalena, Albowa, 1918-02-01, 1999-12-04, [])
+])
+(Bartlomiej, Kowalski, 1958-08-31, , , , , , [])
+])

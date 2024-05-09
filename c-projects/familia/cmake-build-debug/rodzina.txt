@@ -1,0 +1,13 @@
+(Jan, Kowalski, 1918-02-01, 1999-12-04, ,,,, [
+(Ewelina, Kowalska, 1983-11-03,, Magdalena, Albowa, 1918-02-01, 1999-12-04, [
+(Lena, Kowalik, 1983-11-03, ,
+Katarzyna, Lomnda, 1923-02-06, 1789-12-04, [])
+])
+(Mikolaj, Kowalski, 1953-05-21, 2010-03-03, Karolina, Plichta, 1951-07-13,, [
+(Ewa, Owska, 1934-11-03, , Magdalena, Nowoska, 1918-02-01, 1999-12-04, [])
+])
+(Bartlomiej, Kowalski, 1958-08-31, ,, , , , [
+(Ewa, Owska, 1934-11-03, , Kunegunda, Nowoska, 1918-02-01, 1999-12-04, [])
+(Ewa, Owalska, 1934-11-03, , Kunna, Nowoskkka, 1918-02-01, 1999-12-04, [])
+])
+)
