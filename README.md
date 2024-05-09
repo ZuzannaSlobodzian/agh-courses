@@ -1,6 +1,6 @@
 # agh-courses
 
-## This repository includes some projects that I created during my studies.
+## This repository contains some projects that I created during my studies.
 
 [c-projects](https://github.com/ZuzannaSlobodzian/agh-courses/tree/main/c-projects): Learning basics of C language.
 
